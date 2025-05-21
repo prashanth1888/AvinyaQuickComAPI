@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Entity.DbLayer\Entity.DbLayer.csproj" />
-  </ItemGroup>
-
 </Project>

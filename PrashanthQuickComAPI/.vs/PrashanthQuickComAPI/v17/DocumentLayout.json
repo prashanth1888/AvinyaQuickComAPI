@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A98622D9-A82E-48DD-B71B-15872394AE25}|..\\QuickCom.BusinessLayer\\QuickCom.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\prashanth1888\\avinyaquickcomapi\\quickcom.businesslayer\\quickcom.businesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79180DE0-34D1-4209-9C78-6466898D8673}|..\\Entity.DbLayer\\Entity.DbLayer.csproj|c:\\users\\hp\\source\\repos\\prashanth1888\\avinyaquickcomapi\\entity.dblayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F51C818-AD3C-4C7A-920C-9DB8BEB35598}|PrashanthQuickComAPI.csproj|c:\\users\\hp\\source\\repos\\prashanth1888\\avinyaquickcomapi\\prashanthquickcomapi\\prashanthquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4F51C818-AD3C-4C7A-920C-9DB8BEB35598}|PrashanthQuickComAPI.csproj|solutionrelative:prashanthquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -26,6 +32,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "QuickCom.BusinessLayer",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\QuickCom.BusinessLayer\\QuickCom.BusinessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\QuickCom.BusinessLayer\\QuickCom.BusinessLayer.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\QuickCom.BusinessLayer\\QuickCom.BusinessLayer.csproj",
+              "RelativeToolTip": "..\\QuickCom.BusinessLayer\\QuickCom.BusinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T06:50:30.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\Entity.DbLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\Entity.DbLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\Entity.DbLayer\\Class1.cs",
+              "RelativeToolTip": "..\\Entity.DbLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:48:30.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PrashanthQuickComAPI",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\PrashanthQuickComAPI.csproj",
               "RelativeDocumentMoniker": "PrashanthQuickComAPI.csproj",
@@ -38,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\QuickCom.BusinessLayer\\Class1.cs",
               "RelativeDocumentMoniker": "..\\QuickCom.BusinessLayer\\Class1.cs",
@@ -51,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
