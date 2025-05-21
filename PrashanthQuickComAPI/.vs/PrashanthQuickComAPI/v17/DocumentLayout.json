@@ -1,12 +1,70 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F51C818-AD3C-4C7A-920C-9DB8BEB35598}|PrashanthQuickComAPI.csproj|c:\\users\\hp\\source\\repos\\prashanth1888\\avinyaquickcomapi\\prashanthquickcomapi\\prashanthquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F51C818-AD3C-4C7A-920C-9DB8BEB35598}|PrashanthQuickComAPI.csproj|solutionrelative:prashanthquickcomapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98622D9-A82E-48DD-B71B-15872394AE25}|..\\QuickCom.BusinessLayer\\QuickCom.BusinessLayer.csproj|c:\\users\\hp\\source\\repos\\prashanth1888\\avinyaquickcomapi\\quickcom.businesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F51C818-AD3C-4C7A-920C-9DB8BEB35598}|PrashanthQuickComAPI.csproj|c:\\users\\hp\\source\\repos\\prashanth1888\\avinyaquickcomapi\\prashanthquickcomapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F51C818-AD3C-4C7A-920C-9DB8BEB35598}|PrashanthQuickComAPI.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrashanthQuickComAPI",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\PrashanthQuickComAPI.csproj",
+              "RelativeDocumentMoniker": "PrashanthQuickComAPI.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\PrashanthQuickComAPI.csproj",
+              "RelativeToolTip": "PrashanthQuickComAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T06:43:32.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\QuickCom.BusinessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\QuickCom.BusinessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\QuickCom.BusinessLayer\\Class1.cs",
+              "RelativeToolTip": "..\\QuickCom.BusinessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:43:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\prashanth1888\\AvinyaQuickComAPI\\PrashanthQuickComAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:33:25.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
