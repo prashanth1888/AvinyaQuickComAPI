@@ -1,0 +1,6 @@
+@PrashanthQuickComAPI_HostAddress = http://localhost:5053
+
+GET {{PrashanthQuickComAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
