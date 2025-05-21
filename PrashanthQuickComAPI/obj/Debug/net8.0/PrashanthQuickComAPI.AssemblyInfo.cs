@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrashanthQuickComAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5abc5e866f2d00f8ed63dc932897fc70735f7a0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e84172c44ffd517167335bf177a486ea2fc31b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrashanthQuickComAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrashanthQuickComAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
